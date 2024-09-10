@@ -1,6 +1,6 @@
 
 
-gasolina= 5.80
+gasolina = 5.80
 etenol = 4.90
 
 opcao = int(input("-------------------------------------------\n"
